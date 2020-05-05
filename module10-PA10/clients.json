@@ -1,0 +1,24 @@
+[
+    {   
+        "firstName": "Kevin",
+        "lastName": "Johnson",
+        "email": "kevinjohnson@gmail.com",
+        "phone": "5555559876",
+        "balance": "876"
+    },
+    {   
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "Johndoe@gmail.com",
+        "phone": "99876579",
+        "balance": "8769"
+    },
+    {
+   
+    "firstName": "Atul",
+    "lastName": "Atul",
+    "email": "sagotraatul@gmail.com",
+    "phone": "987654868",
+    "balance": "8456"
+    }
+]
